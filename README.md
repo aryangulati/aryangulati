@@ -106,8 +106,8 @@ Here are some ideas to get you started:
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/aryangulati/Covidanalysis" title="Covidanalysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Covidanalysis&theme=monokai"></a>
-  <a align="right" href="https://github.com/https://github.com/aryangulati/TryingSomething" title="TryingSomething"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=TryingSomething&theme=monokai"></a>
+  <a align="left" href="https://github.com/aryangulati/Codonfest" title="Codonfest"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Codonfest&theme=monokai"></a>
+  <a align="right" href="https://github.com/aryangulati/python-programming/tree/Team-PY1" title="python-programming"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=python-programming&theme=monokai"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
