@@ -83,6 +83,10 @@ Here are some ideas to get you started:
 -->
 
 
+<img src="https://user-images.githubusercontent.com/42711978/107772638-7c9fc480-6d62-11eb-9e55-6f5e6b050804.gif" min-width="400px" max-width="400px" width="400px" align="right">
+
+<br>
+
 
 ```python
 <!--
@@ -94,9 +98,10 @@ Here are some ideas to get you started:
 -->
 ```
 
+
 <!--### Profile Views :-->
 
----
+---------------------------------------------------------
 
 <h2 align="center">Repositories</h2>
 
