@@ -19,16 +19,29 @@
 
 
 
-
-
-### 📈 My GitHub Stats:
-
+<details>	
+  <summary><b>📈 My Github Stats ⚡</b></summary>
+  <br>
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=aryangulati&show_icons=true&theme=monokai" />
   <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryangulati&count_private=true&theme=monokai" />
 </p>
+  
+<br>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks 😎</b></summary>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangulati&hide_border=true" />
+</details>
+<details>	
+  <summary><b>🏆 Github Trophy</b></summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aryangulati&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
+
 
 
 **Languages and Tools:**  
