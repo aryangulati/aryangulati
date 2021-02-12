@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi 👋, I'm  <img src="https://media.giphy.com/media/hwlKbFIqI0PCFkyC6y/giphy.gif" width="500"></h1>
 <img align="right" width ="100" height="100" src="https://user-images.githubusercontent.com/42711978/107768183-157f1180-6d5c-11eb-8ff6-4b2e8278fd08.gif")
-
+---
 
 
 <div align='center'> 
@@ -51,7 +51,7 @@
 
 </details>
 
-
+---
 
 **Languages and Tools:**  
 <!-- My Skills -->
@@ -95,6 +95,32 @@ Here are some ideas to get you started:
 ```
 
 <!--### Profile Views :-->
+
+---
+
+<h2 align="center">Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/aryangulati/aryangulati" title="aryangulati"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=aryangulati&theme=monokai"></a><a align="right" href="https://github.com/aryangulati/Character-Based-Language-Model" title="Character-Based-Language-Model"><img align="right" height="143"  src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Character-Based-Language-Model&theme=monokai"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/aryangulati/Covidanalysis" title="Covidanalysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Covidanalysis&theme=monokai"></a>
+  <a align="right" href="https://github.com/https://github.com/aryangulati/TryingSomething" title="TryingSomething"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=TryingSomething&theme=monokai"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/aryangulati/Codonfest" title="Codonfest"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Codonfest&theme=monokai"></a>
+  <a align="right" href="https://github.com/aryangulati/python-programming/tree/Team-PY1" title="python-programming"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=python-programming&theme=monokai"></a>
+</p>
+<br><br>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/aryangulati/Codonfest" title="Codonfest"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Codonfest&theme=monokai"></a>
+  <a align="right" href="https://github.com/aryangulati/python-programming/tree/Team-PY1" title="python-programming"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=python-programming&theme=monokai"></a>
+</p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h4 align="center"><a href=https://github.com/aryangulati?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+
   
  <p>
   <img align="center" width ="1200" height="400" src="https://user-images.githubusercontent.com/42711978/107771322-9d671a80-6d60-11eb-9352-13f861f43ff0.gif"/>
