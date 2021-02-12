@@ -40,8 +40,8 @@
   <summary><b>☄️ Github Streaks 😎</b></summary>
 
 <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangulati&hide_border=true" />
-<img align="right" width ="220" height="180" src="https://user-images.githubusercontent.com/42711978/107772013-a2789980-6d61-11eb-8b60-d00577b04276.gif"/>
-<img align="center" width ="250" height="250" src="https://user-images.githubusercontent.com/42711978/107769300-cfc34880-6d5d-11eb-88dd-cda7cc8dd731.gif"/>
+<img align="right" width ="215" src="https://user-images.githubusercontent.com/42711978/107772013-a2789980-6d61-11eb-8b60-d00577b04276.gif"/>
+<img align="center" width ="215"  src="https://user-images.githubusercontent.com/42711978/107769300-cfc34880-6d5d-11eb-88dd-cda7cc8dd731.gif"/>
 
 </details>
 <details>	
