@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=aryangulati" alt="aryangulati" />
+
 <h1 align="center">Hi 👋, I'm  <img src="https://media.giphy.com/media/hwlKbFIqI0PCFkyC6y/giphy.gif" width="500"></h1>
 
 
@@ -15,7 +17,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/)
 
 </div>
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=aryangulati" alt="aryangulati" /> </h3>
+<!--<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=aryangulati" alt="aryangulati" /> </h3>-->
 
 
 
