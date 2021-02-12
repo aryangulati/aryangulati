@@ -101,7 +101,8 @@ Here are some ideas to get you started:
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/aryangulati/aryangulati" title="aryangulati"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=aryangulati&theme=monokai"></a><a align="right" href="https://github.com/aryangulati/Character-Based-Language-Model" title="Character-Based-Language-Model"><img align="right" height="143"  src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Character-Based-Language-Model&theme=monokai"></a>
+  <a align="left" href="https://github.com/aryangulati/Codonfest" title="Codonfest"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Codonfest&theme=monokai"></a>
+  <a align="right" href="https://github.com/aryangulati/python-programming/tree/Team-PY1" title="python-programming"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=python-programming&theme=monokai"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
