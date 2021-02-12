@@ -95,7 +95,8 @@ Here are some ideas to get you started:
 ```
 
 <!--### Profile Views :-->
-  <img src="https://profile-counter.glitch.me/aryangulati/count.svg" /> <br>
+  
  <p>
   <img align="center" width ="1200" height="400" src="https://user-images.githubusercontent.com/42711978/107771322-9d671a80-6d60-11eb-9352-13f861f43ff0.gif"/>
   </p>
+  <img src="https://profile-counter.glitch.me/aryangulati/count.svg" /> <br>
