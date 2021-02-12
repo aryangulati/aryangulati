@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm  <img src="https://media.giphy.com/media/hwlKbFIqI0PCFkyC6y/giphy.gif" width="500"></h1>
 
 
-<div align='center'> 
 
+<div align='center'> 
+<a href="https://www.linkedin.com/in/aryangulati">
+  <img alt="Aryan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+  
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryangulati)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://aryangulati.medium.com/)
