@@ -1,13 +1,13 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=aryangulati" alt="aryangulati" />
 
-<h1 align="center"> Hi 👋, I'm  <img src="https://media.giphy.com/media/hwlKbFIqI0PCFkyC6y/giphy.gif" width="500"></h1>
+<h1 align="center"> Hi 👋, I'm  <img src="https://media.giphy.com/media/ulZtUMnDeVAMlVVZW5/giphy.gif" ></h1>
 <img align="right" width ="100" height="100" src="https://user-images.githubusercontent.com/42711978/107768183-157f1180-6d5c-11eb-8ff6-4b2e8278fd08.gif")
 ---
 
 
 <div align='center'> 
 
- ### 📫 Connect with me<img src="https://user-images.githubusercontent.com/42711978/107780737-19675f80-6d6d-11eb-95dd-102a22c972d3.gif" height="32">
+ ### 📫 Connect with me<img src="https://user-images.githubusercontent.com/42711978/107780737-19675f80-6d6d-11eb-95dd-102a22c972d3.gif" height="32"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryangulati)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
@@ -19,6 +19,9 @@
 [![Dev.to](https://img.shields.io/badge/Dev-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/)
 
 </div>
+
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 <!--<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=aryangulati" alt="aryangulati" /> </h3>-->
 
 
@@ -40,8 +43,8 @@
   <summary><b>☄️ Github Streaks 😎</b></summary>
 
 <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangulati&hide_border=true" />
-<img align="right" width ="215" src="https://user-images.githubusercontent.com/42711978/107772013-a2789980-6d61-11eb-8b60-d00577b04276.gif"/>
-<img align="center" width ="215"  src="https://user-images.githubusercontent.com/42711978/107769300-cfc34880-6d5d-11eb-88dd-cda7cc8dd731.gif"/>
+<img align="right" width ="220" height="180" src="https://user-images.githubusercontent.com/42711978/107772013-a2789980-6d61-11eb-8b60-d00577b04276.gif"/>
+<img align="center" width ="250" height="250" src="https://user-images.githubusercontent.com/42711978/107769300-cfc34880-6d5d-11eb-88dd-cda7cc8dd731.gif"/>
 
 </details>
 <details>	
@@ -90,6 +93,7 @@ Here are some ideas to get you started:
 
 ```python
 <!--
+WORK IN PROGRESS
 <img align='left' src="https://i.imgur.com/OTKgDSt.gif" width="360" height="360"><br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/5LPHvs2/giphy.gif" alt="giphy" border="0" align="right"></a> 
 -->
@@ -123,8 +127,8 @@ Here are some ideas to get you started:
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/aryangulati/Codonfest" title="Codonfest"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Codonfest&theme=monokai"></a>
-  <a align="right" href="https://github.com/aryangulati/python-programming/tree/Team-PY1" title="python-programming"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=python-programming&theme=monokai"></a>
+  <a align="left" href="https://github.com/aryangulati/Covidanalysis" title="Covidanalysis"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Covidanalysis&theme=monokai"></a>
+  <a align="right" href="https://github.com/aryangulati/Character-Based-Language-Model" title="Character-Based-Language-Model"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Character-Based-Language-Model&theme=monokai"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
