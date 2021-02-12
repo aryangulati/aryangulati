@@ -7,7 +7,8 @@
 
 <div align='center'> 
 
-  
+ ### 📫 Connect with me<img src="https://user-images.githubusercontent.com/42711978/107780737-19675f80-6d6d-11eb-95dd-102a22c972d3.gif" height="32">
+
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryangulati)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://aryangulati.medium.com/)
@@ -40,7 +41,7 @@
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangulati&hide_border=true" />
 <img align="right" width ="200" height="220" src="https://user-images.githubusercontent.com/42711978/107772013-a2789980-6d61-11eb-8b60-d00577b04276.gif"/>
-<img align="right" width ="250" height="250" src="https://user-images.githubusercontent.com/42711978/107769300-cfc34880-6d5d-11eb-88dd-cda7cc8dd731.gif"/>
+<img align="right" width ="200" height="200" src="https://user-images.githubusercontent.com/42711978/107769300-cfc34880-6d5d-11eb-88dd-cda7cc8dd731.gif"/>
 
 </details>
 <details>	
