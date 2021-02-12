@@ -131,7 +131,6 @@ WORK IN PROGRESS
   <a align="right" href="https://github.com/aryangulati/Character-Based-Language-Model" title="Character-Based-Language-Model"><img align="right" height="134" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Character-Based-Language-Model&theme=monokai"></a>
 </p>
 <br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/aryangulati?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
   
