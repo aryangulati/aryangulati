@@ -58,30 +58,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+</br><i>Random Dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 
-
-
-
-
+```python
+<!--
 <img align='left' src="https://i.imgur.com/OTKgDSt.gif" width="360" height="360"><br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/5LPHvs2/giphy.gif" alt="giphy" border="0" align="right"></a>
-
-
-
-
-
-
-
-  
-  
- 
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5LPHvs2/giphy.gif" alt="giphy" border="0" align="right"></a> 
+-->
 <!--
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" >
 -->
-```python
-
 ```
 
 <!--### Profile Views :-->
