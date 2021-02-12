@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://user-images.githubusercontent.com/42711978/107772638-7c9fc480-6d62-11eb-9e55-6f5e6b050804.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/42711978/107772638-7c9fc480-6d62-11eb-9e55-6f5e6b050804.gif"  height="350" width="450" align="right">
 
 <br>
 
@@ -96,6 +96,13 @@ Here are some ideas to get you started:
 <!--
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" >
 -->
+<img align='left' src="https://i.imgur.com/OTKgDSt.gif" width="360" height="360"><br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5LPHvs2/giphy.gif" alt="giphy" border="0" align="right"></a> 
+-->
+<!--
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" >
+-->
+
 ```
 
 
