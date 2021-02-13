@@ -136,6 +136,7 @@ WORK IN PROGRESS
 
   
  <p>
-  <img align="center" width ="1200" height="400" src="https://user-images.githubusercontent.com/42711978/107771322-9d671a80-6d60-11eb-9352-13f861f43ff0.gif"/>
+  
+ <img align="center" width ="1200" height="400" src=" https://user-images.githubusercontent.com/42711978/107848295-3c9b1900-6e18-11eb-99ee-a5a3b89c1e79.gif"/>
   </p>
   <img src="https://profile-counter.glitch.me/aryangulati/count.svg" /> <br>
