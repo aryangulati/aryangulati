@@ -21,7 +21,6 @@
 
 </div>
 
- <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=aryangulati" alt="aryangulati" /> </h3>-->
 
@@ -44,8 +43,7 @@
   <summary><b>☄️ Github Streaks 😎</b></summary>
 
 <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryangulati&hide_border=true" />
-<img align="right" width ="220" height="180" src="https://user-images.githubusercontent.com/42711978/107772013-a2789980-6d61-11eb-8b60-d00577b04276.gif"/>
-<img align="center" width ="250" height="250" src="https://user-images.githubusercontent.com/42711978/107769300-cfc34880-6d5d-11eb-88dd-cda7cc8dd731.gif"/>
+<img align="right" width ="250" height="250" src="https://user-images.githubusercontent.com/42711978/107769300-cfc34880-6d5d-11eb-88dd-cda7cc8dd731.gif"/>
 
 </details>
 <details>	
@@ -133,11 +131,14 @@ WORK IN PROGRESS
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/aryangulati?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
-
+ 
+---
   
- <p>
+<p>
   <!--<img align="center" width ="1200" height="400" src="https://user-images.githubusercontent.com/42711978/107771322-9d671a80-6d60-11eb-9352-13f861f43ff0.gif"/>
  <br> -->
  <img align="right"  src="https://user-images.githubusercontent.com/42711978/107848295-3c9b1900-6e18-11eb-99ee-a5a3b89c1e79.gif"/>
-  </p>
-  <img src="https://profile-counter.glitch.me/aryangulati/count.svg" /> <br>
+</p>
+  <img src="https://profile-counter.glitch.me/aryangulati/count.svg" /> 
+   <img align="left" width ="220" height="180" src="https://user-images.githubusercontent.com/42711978/107772013-a2789980-6d61-11eb-8b60-d00577b04276.gif"/>
+
