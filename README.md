@@ -1,6 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=aryangulati" alt="aryangulati" />
-
 <h1 align="center"> Hi 👋, I'm  <img src="https://media.giphy.com/media/ulZtUMnDeVAMlVVZW5/giphy.gif" ></h1>
+
+<img align="center" width="1100" src="https://user-images.githubusercontent.com/42711978/107843729-6ee64f80-6df3-11eb-90c1-8c9a07f35cda.gif"/>
 <img align="right" width ="100" height="100" src="https://user-images.githubusercontent.com/42711978/107768183-157f1180-6d5c-11eb-8ff6-4b2e8278fd08.gif")
 ---
 
