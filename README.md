@@ -91,20 +91,32 @@ Here are some ideas to get you started:
 
 
 ```python
-<!--
-WORK IN PROGRESS
-<img align='left' src="https://i.imgur.com/OTKgDSt.gif" width="360" height="360"><br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/5LPHvs2/giphy.gif" alt="giphy" border="0" align="right"></a> 
--->
-<!--
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" >
--->
-<img align='left' src="https://i.imgur.com/OTKgDSt.gif" width="360" height="360"><br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/5LPHvs2/giphy.gif" alt="giphy" border="0" align="right"></a> 
--->
-<!--
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" >
--->
+
+def happy(name):
+    return name+ " is happy doing code !"
+
+class person:
+
+   nationality="Indian"
+
+   def_init_(self,name,age):
+        self.name = 'Aryan'
+        self.username = 'aryangulati'
+        self.age = '21'
+        self.connect = 'https://www.linkedin.com/in/aryangulati'
+        self.alive=True
+        self.hobbies=[]
+        
+   def hobby_added(self):
+        print(f"your hobbies is added ,your like to {self.hobbies}") 
+        
+        
+   def add_hobbies(self,hobbi_name):
+        self.hobbies.append(hobbi_name)
+        self.hobby_added()
+  
+  def introduce(self):
+        print(f"my name is {self.name},my age is {self.age},I am {self.nationality}, ",happy(self.name))
 
 ```
 
