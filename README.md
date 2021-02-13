@@ -86,9 +86,7 @@ Here are some ideas to get you started:
 
 
 <!--<img src="https://user-images.githubusercontent.com/42711978/107772638-7c9fc480-6d62-11eb-9e55-6f5e6b050804.gif"  height="350" width="450" align="right"><br>-->
-<img src="https://user-images.githubusercontent.com/42711978/107851661-9c51ee00-6e31-11eb-8a0a-e2812af8b149.gif"  height="300" width="50%" align="right"><br>
-
-<br>
+<img src="https://user-images.githubusercontent.com/42711978/107851661-9c51ee00-6e31-11eb-8a0a-e2812af8b149.gif"  width="50%" align="right">
 
 
 ```python
