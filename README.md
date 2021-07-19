@@ -145,7 +145,11 @@ class person:
 <h4 align="center"><a href=https://github.com/aryangulati?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
  
 ---
-  
+<!--  ### Watch my contribution graph get eaten by the snake 🐍 -->
+ <!-- https://platane.github.io/snk/-->
+![snake gif](https://raw.githubusercontent.com/aryangulati/aryangulati/main/github-user-contribution.svg)
+
+
 <p>
   <!--<img align="center" width ="1200" height="400" src="https://user-images.githubusercontent.com/42711978/107771322-9d671a80-6d60-11eb-9352-13f861f43ff0.gif"/>
  <br> -->
@@ -153,4 +157,7 @@ class person:
 </p>
   <img src="https://profile-counter.glitch.me/aryangulati/count.svg" /> 
    <img align="left" width ="220" height="180" src="https://user-images.githubusercontent.com/42711978/107772013-a2789980-6d61-11eb-8b60-d00577b04276.gif"/>
-
+ 
+<!--  <p align="center">      -->
+<!--[skyline gif]   get yours from here: https://skyline.github.com/    -->
+<!--<img src="https://skyline.github.com/aryangulati/2020" height="350" width="800">  -->
