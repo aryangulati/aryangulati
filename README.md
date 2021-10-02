@@ -128,7 +128,7 @@ class person:
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/aryangulati/Hacktoberfest2020" title="Hacktoberfest2020"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Hacktoberfest2020&theme=monokai"></a>
+  <a align="left" href="https://github.com/aryangulati/Hacktoberfest2021" title="Hacktoberfest2021"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=Hacktoberfest2020&theme=monokai"></a>
   <a align="right" href="https://github.com/aryangulati/TryingSomething" title="TryingSomething"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aryangulati&repo=TryingSomething&theme=monokai"></a>
 </p>
 <br><br>
