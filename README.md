@@ -14,10 +14,10 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://aryangulati.medium.com/)
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](added )
-[![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14065857/aryangulati)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aryangulati)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%13580900.svg?&style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/)
-[![Dev.to](https://img.shields.io/badge/Dev-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/)
+[![Dev.to](https://img.shields.io/badge/Dev-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/aryangulati)
 
 </div>
 
